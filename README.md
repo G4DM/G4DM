@@ -1,4 +1,4 @@
-[](totoro.gif)
+![ ](totoro.gif)
 
 <h1 align="center">👋 Hi! I'm G4DM</h1>
 
