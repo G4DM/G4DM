@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="totoro.gif" width="500px">
+  <img src="totoro.gif" width="30%">
 </div>
 <h1 align="center">👋 Hi! I'm G4DM</h1>
 
