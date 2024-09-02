@@ -1,4 +1,6 @@
-<img src="totoro.gif" width="300px" align="center">
+<div align=center>
+  <img src="totoro.gif" width="300px">
+</div>
 <h1 align="center">👋 Hi! I'm G4DM</h1>
 
 🎓 I'm currently studying **Web Application Development**, combining my studies with self-taught learning to expand my skills and knowledge in programming.
