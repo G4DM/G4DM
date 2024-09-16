@@ -11,7 +11,7 @@
 
 🤖 My long-term goal is to develop an intelligent personal assistant, similar to **J.A.R.V.I.S.** from Iron Man, which I'll call **E.G.O.**. It's an ambitious project, but I'm excited about what I can achieve in the future.
 
-🎓 I also hold a **Technician in Microcomputer Systems and Networks** degree and am certified in **CCNAv7: Introduction to Networks**.
+🎓 Right now I am pursuing a higher vocational degree in **Web Application Development**. But I also hold a **Technician in Microcomputer Systems and Networks** degree and am certified in **CCNAv7: Introduction to Networks**.
 
 
 
