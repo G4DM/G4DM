@@ -5,7 +5,7 @@
 
 🎓 I'm currently studying **Web App Development**, combining my studies with self-taught learning to expand my skills and knowledge in programming.
 
-💻 I have experience with **HTML, CSS**, and **Python**. Right now, I'm diving into **JavaScript** and exploring **React** to enhance my front-end development skills.
+💻 I have experience with **HTML, CSS**, and **Python**. Right now, I'm diving into **JavaScript** and exploring **React** to enhance my front-end development skills and also **Java** & **MySQL** for backend.
 
 🚀 I enjoy working on small projects that allow me to hone my coding skills and experiment with new technologies. While I don't have any notable projects at the moment, I'm always looking for ways to improve and learn.
 
