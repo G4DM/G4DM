@@ -1,7 +1,7 @@
 <div align=center>
   <img src="totoro.gif" width="50%">
 </div>
-<h1 align="center">👋 Hi! I'm G4DM</h1>
+<h1 align="center">👋 Hi! I'm Gabi</h1>
 
 🎓 I'm currently studying **Web App Development**, combining my studies with self-taught learning to expand my skills and knowledge in programming.
 
