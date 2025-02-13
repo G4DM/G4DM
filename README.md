@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="totoro.gif" width="50%">
+  <img src="nsx.gif" width="50%">
 </div>
 <h1 align="center">👋 Hi! I'm Gabi</h1>
 
@@ -29,14 +29,11 @@
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+<div align="center">
+  
+  ![](https://spotify-recently-played-readme.vercel.app/api?user=bymanexx)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=G4DM&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
 [![](https://visitcount.itsvg.in/api?id=G4DM&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
