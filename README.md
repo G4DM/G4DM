@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="nsx.gif" width="50%">
+  <img src="banner.png" width="50%">
 </div>
 <h1 align="center">👋 Hi! I'm Gabi</h1>
 
