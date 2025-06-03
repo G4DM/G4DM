@@ -1,7 +1,7 @@
 <div align=center>
   <img src="banner-socials.png">
 </div>
-<h1 align="center">👋 Hi! I'm Gabi</h1>
+<h1 align="center">👋 Hi! I'm Gabi 👋</h1>
 
 👨‍💻 21 years old, currently studying Web App Development and combining formal education with self-taught learning to push my skills further every day.
 
