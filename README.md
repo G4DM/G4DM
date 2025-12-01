@@ -3,11 +3,11 @@
 </div>
 <h1 align="center">👋 Hi! I'm Gabi 👋</h1>
 
-👨‍💻 21 years old, currently studying Web App Development and combining formal education with self-taught learning to push my skills further every day.
+👨‍💻 22 years old, currently studying Web App Development and combining formal education with self-taught learning to push my skills further every day.
 
-💻 Proficient in HTML, CSS, Bootstrap, and WordPress. Currently mastering JavaScript, with plans to dive into React and TypeScript soon. I also have a solid foundation in Java and some experience with Python.
+💻 Proficient in HTML, CSS, Bootstrap, and WordPress. Currently mastering JavaScript, with plans to dive into React, Vue and TypeScript soon.
 
-🚀 With almost two years left in my Web Dev degree (including internships) and a planned specialization in AI & Big Data, I’m blending solid fundamentals with cutting-edge tech to stay ahead.
+🚀 I have almost finished my two year Web App Development degree.
 
 📫 Feel free to reach out and connect!
 
@@ -18,12 +18,16 @@
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Version Control & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
