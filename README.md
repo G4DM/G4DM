@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="banner-socials.png">
+  <img src="porsche.gif">
 </div>
 <h1 align="center">👋 Hi! I'm Gabi 👋</h1>
 
