@@ -3,11 +3,17 @@
 </div>
 <h1 align="center">👋 Hi! I'm Gabi 👋</h1>
 
-👨‍💻 22 years old, currently studying Web App Development and combining formal education with self-taught learning to push my skills further every day.
+👨‍💻 22 years old, soon-to-be Web App Development graduate, combining formal education with self-taught learning to level up my skills every day.
 
-💻 Proficient in HTML, CSS, Bootstrap, and WordPress. Currently mastering JavaScript, with plans to dive into React, Vue and TypeScript soon.
+💻 Skills & Current Focus:
 
-🚀 I have almost finished my two year Web App Development degree.
+- Frontend: HTML, CSS, Bootstrap, WordPress, some JavaScript, starting Vue, familiar with React basics
+
+- Backend: PHP, learning Laravel, familiar with Java, exploring Spring Boot
+
+- Upcoming: Diving into TypeScript and modern web development patterns
+
+🚀 Almost finished my two-year Web App Development degree, building projects to solidify my skills and prepare for a career in web development
 
 📫 Feel free to reach out and connect!
 
