@@ -7,9 +7,11 @@
 
 💻 Skills & Current Focus:
 
-- Frontend: HTML, CSS, Bootstrap, WordPress, some JavaScript, starting Vue, familiar with React basics
+- Frontend: HTML, CSS, Bootstrap, JavaScript, Vue, familiar with React basics
 
-- Backend: PHP, learning Laravel, familiar with Java, exploring Spring Boot
+- Backend: PHP, Laravel, familiar with Java
+
+- CMS: WordPress
 
 - Upcoming: Diving into TypeScript and modern web development patterns
 
